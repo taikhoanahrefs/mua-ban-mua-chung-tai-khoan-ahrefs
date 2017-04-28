@@ -1,7 +1,7 @@
 {
     "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "Bagario Framework.",
+    "keywords": ["framework", "bagario"],
     "license": "MIT",
     "type": "project",
     "require": {
