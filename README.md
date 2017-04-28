@@ -1,11 +1,4 @@
 # Tutorial
-
-This is my tutorial repository.
-[Quora profile link for Adam D'Angelo](http://www.quora.com/Adam-DAngelo)
-
-HTML:
-<a href="http://www.quora.com/Adam-DAngelo">Quora profile link for Adam D'Angelo</a>
-
 You’re at a social gathering and the people you’re with start talking about games. Games you’ve never played. You listen along and laugh and nod, but you start to wonder if maybe you should say something.
 
 I’ve written the following guide for faking your way through conversations about some of the hottest games around. In addition to a summary and talking points, I’ve included an eject button for each game. That should let you gracefully withdraw yourself from the current topic without revealing your complete lack of knowledge.
@@ -82,7 +75,7 @@ What they’ll talk about: Most people want to tell some stories about unlikely 
 
 Uncontroversial Statements:
 
-“I just can’t believe they put so much stuff in this game!”
+“I just can’t believe they put so much stuff in [this game](http://bagario.net)!”
 
 “I did A Major Test of Strength before I was ready, and wow, it was hard!” 
 
@@ -145,7 +138,7 @@ Dark Souls
 
 What it is: A notoriously difficult action role-playing series where you fight through mysterious, dangerous kingdoms and defeat massive bosses.
 
-What they’ll talk about: The most recent game, Dark Souls 3, just concluded. The series has also concluded, apparently. Most people will be talking about whether or not they’re sick of Dark Souls.
+What they’ll talk about: The most recent [unblocked games](http://unblockedallgames.com), Dark Souls 3, just concluded. The series has also concluded, apparently. Most people will be talking about whether or not they’re sick of Dark Souls.
 
 Uncontroversial Statements:
 
